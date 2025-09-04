@@ -1,6 +1,6 @@
 import { ArrowRight, Download, Mail } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import profileImage from '@/assets/thanuja-profile.jpg';
+import profileImage from '@/assets/thanuja-profile-new.jpg';
 
 const Hero = () => {
   const scrollToSection = (sectionId: string) => {
